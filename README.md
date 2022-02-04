@@ -1,3 +1,5 @@
+# InfraQL has moved to https://github.com/stackql/stackql
+
 <!-- language: lang-none -->
 
 ![Platforms](https://img.shields.io/badge/platform-windows%20macos%20linux-brightgreen)
